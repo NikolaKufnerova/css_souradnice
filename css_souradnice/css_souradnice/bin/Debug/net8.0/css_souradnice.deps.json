@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "css_souradnice/1.0.0": {
+        "runtime": {
+          "css_souradnice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "css_souradnice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

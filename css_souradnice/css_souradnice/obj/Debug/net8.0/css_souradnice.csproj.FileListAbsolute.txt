@@ -1,0 +1,15 @@
+C:\Users\nikola.kufnerova.023\source\repos\css_souradnice\css_souradnice\bin\Debug\net8.0\css_souradnice.exe
+C:\Users\nikola.kufnerova.023\source\repos\css_souradnice\css_souradnice\bin\Debug\net8.0\css_souradnice.deps.json
+C:\Users\nikola.kufnerova.023\source\repos\css_souradnice\css_souradnice\bin\Debug\net8.0\css_souradnice.runtimeconfig.json
+C:\Users\nikola.kufnerova.023\source\repos\css_souradnice\css_souradnice\bin\Debug\net8.0\css_souradnice.dll
+C:\Users\nikola.kufnerova.023\source\repos\css_souradnice\css_souradnice\bin\Debug\net8.0\css_souradnice.pdb
+C:\Users\nikola.kufnerova.023\source\repos\css_souradnice\css_souradnice\obj\Debug\net8.0\css_souradnice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikola.kufnerova.023\source\repos\css_souradnice\css_souradnice\obj\Debug\net8.0\css_souradnice.AssemblyInfoInputs.cache
+C:\Users\nikola.kufnerova.023\source\repos\css_souradnice\css_souradnice\obj\Debug\net8.0\css_souradnice.AssemblyInfo.cs
+C:\Users\nikola.kufnerova.023\source\repos\css_souradnice\css_souradnice\obj\Debug\net8.0\css_souradnice.csproj.CoreCompileInputs.cache
+C:\Users\nikola.kufnerova.023\source\repos\css_souradnice\css_souradnice\obj\Debug\net8.0\css_souradnice.sourcelink.json
+C:\Users\nikola.kufnerova.023\source\repos\css_souradnice\css_souradnice\obj\Debug\net8.0\css_souradnice.dll
+C:\Users\nikola.kufnerova.023\source\repos\css_souradnice\css_souradnice\obj\Debug\net8.0\refint\css_souradnice.dll
+C:\Users\nikola.kufnerova.023\source\repos\css_souradnice\css_souradnice\obj\Debug\net8.0\css_souradnice.pdb
+C:\Users\nikola.kufnerova.023\source\repos\css_souradnice\css_souradnice\obj\Debug\net8.0\css_souradnice.genruntimeconfig.cache
+C:\Users\nikola.kufnerova.023\source\repos\css_souradnice\css_souradnice\obj\Debug\net8.0\ref\css_souradnice.dll
